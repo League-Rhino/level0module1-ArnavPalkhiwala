@@ -2,6 +2,7 @@
 					In a loop, have the user guess the number. Let the user know if their guess is correct. Otherwise, tell them if their
 					guess is too low or too high.
 					Tell them how many guesses it took to guess the number.
+						
 					
 2. Horoscope:	Ask the user for their birthday and give them a unique horoscope based on their zodiac sign.
 
