@@ -22,10 +22,11 @@ public static void main(String[] args) {
 	if (answer.equalsIgnoreCase("Danny"))
 	{ JOptionPane.showMessageDialog(null, "Danny is " + dannysPower);}
 	if (answer.equalsIgnoreCase("Varnit"))
-	;		{ JOptionPane.showMessageDialog(null, "Varnit knows " + varnitsPower );}
+	
+	{ JOptionPane.showMessageDialog(null, "Varnit knows " + varnitsPower );}
 	if (answer.equalsIgnoreCase("Arnav"))
 	{ JOptionPane.showMessageDialog(null, "Arnav is "+ arnavsPower);}
-	if (answer.equalsIgnoreCase("Danny"))
+	if (answer.equalsIgnoreCase("Evan"))
 	{ JOptionPane.showMessageDialog(null, "Evan is " + evansPower);}
 
 
