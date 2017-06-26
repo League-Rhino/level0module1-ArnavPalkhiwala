@@ -21,8 +21,7 @@ String houseSalad= JOptionPane.showInputDialog("House Salad for $5.00, please ty
 String breadsticks= JOptionPane.showInputDialog("And Cheesy breadsticks for $4.00, please type the quantity of each item");
 JOptionPane.showMessageDialog(null, "You have ordered "+ cesearSalad +" Cesear Salad(s) "+ houseSalad+ " House Salad(s) and " + breadsticks + " Order of the Breadsticks.");
 String refills= JOptionPane.showInputDialog("Would you like any refills on drinks?");
-String answer = null;
-if (answer.equalsIgnoreCase("Yes"))
+if (refills.equalsIgnoreCase("Yes"))
 { JOptionPane.showMessageDialog(null, "Sorry, we are out!");}
 
 
